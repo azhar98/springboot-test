@@ -8,6 +8,7 @@ public class SbtestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbtestApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
